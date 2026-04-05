@@ -6,7 +6,7 @@ Built with two delivery modes: **synchronous** (direct response) and **asynchron
 
 ---
 
-## 📐 Architecture Overview
+## Architecture Overview
 
 ![Architecture Diagram](./architecture.drawio.png)
 
